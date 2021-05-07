@@ -16,9 +16,10 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![print desk](C:\Users\Rafael\Desktop\Rafael\desenvolvedorWeb\Projetos\faq-accordion-card-main\images\print desk.png)
+![print desk](https://user-images.githubusercontent.com/80429145/117502267-a62d4e00-af55-11eb-83cd-0482a22ae437.png)
 
-![print mob](C:\Users\Rafael\Desktop\Rafael\desenvolvedorWeb\Projetos\faq-accordion-card-main\images\print mob.png)
+
+![print mob](https://user-images.githubusercontent.com/80429145/117502286-ac232f00-af55-11eb-9076-d4c40cf544f0.png)
 
 ### Links
 
