@@ -23,7 +23,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/faq-accordion-card-solution-j_DUueYNl
 - Live Site URL: https://rafaelmfs.github.io/faq-accordion-card-main/
 
 ## Meu processo
